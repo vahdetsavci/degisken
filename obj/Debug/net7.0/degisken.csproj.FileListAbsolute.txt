@@ -1,0 +1,14 @@
+C:\Users\Vahdet\Documents\Pratikler\degisken\bin\Debug\net7.0\degisken.exe
+C:\Users\Vahdet\Documents\Pratikler\degisken\bin\Debug\net7.0\degisken.deps.json
+C:\Users\Vahdet\Documents\Pratikler\degisken\bin\Debug\net7.0\degisken.runtimeconfig.json
+C:\Users\Vahdet\Documents\Pratikler\degisken\bin\Debug\net7.0\degisken.dll
+C:\Users\Vahdet\Documents\Pratikler\degisken\bin\Debug\net7.0\degisken.pdb
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.AssemblyInfoInputs.cache
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.AssemblyInfo.cs
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.dll
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\refint\degisken.dll
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.pdb
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\degisken.genruntimeconfig.cache
+C:\Users\Vahdet\Documents\Pratikler\degisken\obj\Debug\net7.0\ref\degisken.dll
